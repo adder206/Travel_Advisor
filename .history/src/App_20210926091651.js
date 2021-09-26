@@ -18,7 +18,6 @@ const App = () => {
                         <Map />
                 </Grid>
             </Grid>
-            {/* xs is mobile device grid */}
         </>
     );
 }
