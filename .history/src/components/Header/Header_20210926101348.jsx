@@ -6,7 +6,8 @@ import {SearchIcon} from '@material-ui/icons/Search';
 import useStyles from './styles';
 
 const Header = () => {
-    const classes = useStyles();
+    const classes=useStyles();
+
     return (
         <AppBar position="static">
             <Toolbar className={classes.toolbar}>
